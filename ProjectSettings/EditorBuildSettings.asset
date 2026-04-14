@@ -17,5 +17,14 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Level3.unity
     guid: e3dd4bc9250b8b64c957827cc9ef7229
+  - enabled: 1
+    path: Assets/Scenes/VioletWinsScene.unity
+    guid: 68fc940e319628c4fb0628b96b671112
+  - enabled: 1
+    path: Assets/Scenes/PurpleWinsScene.unity
+    guid: 3ea767cd484ce774494336981fe85deb
+  - enabled: 1
+    path: Assets/Scenes/TieScene.unity
+    guid: e87132785b970fe448e06c834de255bd
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
